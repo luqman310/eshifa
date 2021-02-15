@@ -1,0 +1,33 @@
+{
+  "name": "shifa-api",
+  "version": "1.2.0",
+  "description": "Shifa International Hospitals API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Suhaib",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "express-validator": "^6.7.0",
+    "helmet": "^3.21.2",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.20.8",
+    "mime": "^2.4.6",
+    "moment": "^2.25.3",
+    "morgan": "^1.9.1",
+    "nodemailer": "^6.4.17",
+    "oracledb": "^5.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.9",
+    "ua-parser-js": "^0.7.21",
+    "underscore": "^1.12.0"
+  }
+}
